@@ -14,7 +14,14 @@ public class TrabajoBranch {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        System.out.println("interfaz");
+        System.out.println("hola");
+        System.out.println("hola");
+        System.out.println("hola");
+        System.out.println("hola");
+        System.out.println("hola");
+        System.out.println("hola");
+        System.out.println("soy una interfaz");
     }
     
 }
